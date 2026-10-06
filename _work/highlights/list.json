@@ -1,0 +1,9 @@
+[
+ {"k":"intro","dir":"1-درباره ما","fams":["brand"]},
+ {"k":"boards","dir":"2-تخته‌ها","fams":["board"]},
+ {"k":"wood","dir":"3-طرح چوب","fams":["wood"]},
+ {"k":"fantasy","dir":"4-فانتزی","fams":["fantasy"]},
+ {"k":"solid","dir":"5-سالید","fams":["solid"]},
+ {"k":"metallic","dir":"6-متالیک","fams":["metallic"]},
+ {"k":"rumi","dir":"7-رومی پنل","fams":["rumi"]}
+]

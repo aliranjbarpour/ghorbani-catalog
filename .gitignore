@@ -1,0 +1,9 @@
+node_modules
+.next
+generated
+.DS_Store
+_work/*
+!_work/render/
+!_work/highlights/
+_work/render/node_modules
+_work/render/*.log
